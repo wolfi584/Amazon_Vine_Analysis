@@ -8,9 +8,10 @@ For this project I will have access to 50 different datasets from the Amazon Vin
 - Total of non-Vine reveiews: 40,471
 - 5 star Vine reviews: 48 
 - 5 star non-Vine reviews: 15,663
-- Percentage of 5 star Vine reviews: 0.3% 
-- Percentage of 5 star non-Vine reviews: 99.7%
+- Percentage of 5 star Vine reviews: 51.1% 
+- Percentage of 5 star non-Vine reviews: 38.7%
 
 ## Summary
-The summary states whether or not there is bias, and the results support this statement (2 pt)
-An additional analysis is recommended to support the statement
+In conclusion I believe there is a slight positive bias for the offical Vine reviewers who are paid to try out a product and write a review. The non-Vine reviewers on Amazon seem to be more honest in their product reviews. Additional analysis can be conducted to challenge a null hypothesis by conducting this same analysis with different datasets (products) to see if the results are similar to this study. 
+
+
