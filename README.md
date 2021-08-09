@@ -10,9 +10,6 @@ For this project I will have access to 50 different datasets from the Amazon Vin
 - 5 star non-Vine reviews: 15,663
 - Percentage of 5 star Vine reviews: 51.1% 
 - Percentage of 5 star non-Vine reviews: 38.7%
-
-
-
 ![A](https://github.com/wolfi584/Amazon_Vine_Analysis/blob/main/Resources/Step5_Summary.PNG?raw=true)
 
 ## Summary
